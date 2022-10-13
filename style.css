@@ -1,0 +1,28 @@
+body {
+    margin: auto;
+    max-width: 600px;
+}
+.one
+.three{
+    padding: 32px;
+}
+
+.one {
+    border-style:dashed ;
+    border-color: blue;
+    background: pink;
+    margin: 12px;
+
+}
+
+.two {
+    border: 3px purple;
+    background: blue;
+    margin-bottom: 48px;
+}
+
+.three {
+    border: 3px red;
+    background: peachpuff ;
+    margin-left: 200px;
+}
